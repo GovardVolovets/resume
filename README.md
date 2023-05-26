@@ -7,7 +7,7 @@
     <p style="font-size: 15px; margin-bottom: -1px;">e-mail: g3ag@yandex.ru</p>
     <a href="https://t.me/govardvolovets" style="text-decoration: none; ">Telegram</a> - <a href="https://t.me/govardvolovets" style="text-decoration: none;">https://t.me/govardvolovets</a>
     <br>
-    <a href="" style="text-decoration: none; ">Работы</a>
+    <a href="https://govardvolovets.github.io/portfolio/" style="text-decoration: none; ">Работы</a>
     <p style="font-size: 30px; margin-top: 1px;">Тестировщик ПО</p>
   </div>
 </div>
