@@ -39,8 +39,8 @@
 
 <p>ООО “Нетология”, <a href="javascript:void(0);" onclick="showPDF(1)">Основы разработки на Java</a> - 2023 г.</p>
 <div id="pdfContainer1" style="display: none;">
-  <object id="pdfObject1" data="images/PythonBasicsCreateATelegramBot.pdf" type="application/pdf" width="75%" height="500px">
-    <p>Ваш браузер не поддерживает отображение PDF. Вы можете <a href="images/PythonBasicsCreateATelegramBot.pdf">скачать PDF</a> вместо этого.</p>
+  <object id="pdfObject1" data="images/JavaDevelopmentBasics.pdf" type="application/pdf" width="75%" height="500px">
+    <p>Ваш браузер не поддерживает отображение PDF. Вы можете <a href="images/JavaDevelopmentBasics.pdf">скачать PDF</a> вместо этого.</p>
   </object>
 </div>
 
