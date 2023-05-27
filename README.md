@@ -38,65 +38,65 @@
 «Кинооператор», специалист
 
 ## Курсы, тренинги
-ООО "Нетология" направление «Программирование», курс «Тестировщик ПО» - 11.2022 по настоящее время
+- ООО "Нетология" направление «Программирование», курс «Тестировщик ПО» - 11.2022 по настоящее время
 
-<p>ООО “Нетология”, <a href="javascript:void(0);" onclick="showPDF(7)">Java для тестировщиков</a> - 2023 г.</p>
+- <p>ООО “Нетология”, <a href="javascript:void(0);" onclick="showPDF(7)">Java для тестировщиков</a> - 2023 г.</p>
 <div id="pdfContainer7" style="display: none;">
   <object id="pdfObject7" data="images/JavaForTesters.pdf" type="application/pdf" width="75%" height="500px">
     <p>Ваш браузер не поддерживает отображение PDF. Вы можете <a href="images/JavaForTesters.pdf">скачать PDF</a> вместо этого.</p>
   </object>
 </div>
 
-<p>ООО “Нетология”, <a href="javascript:void(0);" onclick="showPDF(8)">Git - система контроля версий</a> - 2023 г.</p>
+- <p>ООО “Нетология”, <a href="javascript:void(0);" onclick="showPDF(8)">Git - система контроля версий</a> - 2023 г.</p>
 <div id="pdfContainer8" style="display: none;">
   <object id="pdfObject8" data="images/GitVersionControlSystem.pdf" type="application/pdf" width="75%" height="500px">
     <p>Ваш браузер не поддерживает отображение PDF. Вы можете <a href="images/GitVersionControlSystem.pdf">скачать PDF</a> вместо этого.</p>
   </object>
 </div>
 
-<p>ООО “Нетология”, <a href="javascript:void(0);" onclick="showPDF(9)">Ручное тестирование веб-приложений</a> - 2023 г.</p>
+- <p>ООО “Нетология”, <a href="javascript:void(0);" onclick="showPDF(9)">Ручное тестирование веб-приложений</a> - 2023 г.</p>
 <div id="pdfContainer9" style="display: none;">
   <object id="pdfObject9" data="images/ManualWebTestingApplication.pdf" type="application/pdf" width="75%" height="500px">
     <p>Ваш браузер не поддерживает отображение PDF. Вы можете <a href="images/ManualWebTestingApplication.pdf">скачать PDF</a> вместо этого.</p>
   </object>
 </div>
 
-<p>ООО “Нетология”, <a href="javascript:void(0);" onclick="showPDF(1)">Основы разработки на Java</a> - 2023 г.</p>
+- <p>ООО “Нетология”, <a href="javascript:void(0);" onclick="showPDF(1)">Основы разработки на Java</a> - 2023 г.</p>
 <div id="pdfContainer1" style="display: none;">
   <object id="pdfObject1" data="images/JavaDevelopmentBasics.pdf" type="application/pdf" width="75%" height="500px">
     <p>Ваш браузер не поддерживает отображение PDF. Вы можете <a href="images/JavaDevelopmentBasics.pdf">скачать PDF</a> вместо этого.</p>
   </object>
 </div>
 
-<p>ООО “Нетология”, <a href="javascript:void(0);" onclick="showPDF(2)">Основы Python: создаем телеграм-бота</a> - 2023 г.</p>
+- <p>ООО “Нетология”, <a href="javascript:void(0);" onclick="showPDF(2)">Основы Python: создаем телеграм-бота</a> - 2023 г.</p>
 <div id="pdfContainer2" style="display: none;">
   <object id="pdfObject2" data="images/PythonBasicsCreateATelegramBot.pdf" type="application/pdf" width="75%" height="500px">
     <p>Ваш браузер не поддерживает отображение PDF. Вы можете <a href="images/PythonBasicsCreateATelegramBot.pdf">скачать PDF</a> вместо этого.</p>
   </object>
 </div>
 
-<p>ООО “Нетология”, <a href="javascript:void(0);" onclick="showPDF(3)">HTML и CSS для тестировщиков</a> - 2023 г.</p>
+- <p>ООО “Нетология”, <a href="javascript:void(0);" onclick="showPDF(3)">HTML и CSS для тестировщиков</a> - 2023 г.</p>
 <div id="pdfContainer3" style="display: none;">
   <object id="pdfObject3" data="images/HTMLandCSSforTesters.pdf" type="application/pdf" width="75%" height="500px">
     <p>Ваш браузер не поддерживает отображение PDF. Вы можете <a href="images/HTMLandCSSforTesters.pdf">скачать PDF</a> вместо этого.</p>
   </object>
 </div>
 
-<p>ООО “Нетология”, <a href="javascript:void(0);" onclick="showPDF(6)">Основы SQL</a> - 2023 г.</p>
+- <p>ООО “Нетология”, <a href="javascript:void(0);" onclick="showPDF(6)">Основы SQL</a> - 2023 г.</p>
 <div id="pdfContainer6" style="display: none;">
   <object id="pdfObject6" data="images/SQLBasics.pdf" type="application/pdf" width="75%" height="500px">
     <p>Ваш браузер не поддерживает отображение PDF. Вы можете <a href="images/SQLBasics.pdf">скачать PDF</a> вместо этого.</p>
   </object>
 </div>
 
-<p>Школа программирования itProger, <a href="javascript:void(0);" onclick="showPDF(4)">Создание iOS игры на движке Unity 5</a> - 2022 г.</p>
+- <p>Школа программирования itProger, <a href="javascript:void(0);" onclick="showPDF(4)">Создание iOS игры на движке Unity 5</a> - 2022 г.</p>
 <div id="pdfContainer4" style="display: none;">
   <object id="pdfObject4" data="images/CreatingAGameForTheiOSplatformOnUnity.pdf" type="application/pdf" width="75%" height="500px">
     <p>Ваш браузер не поддерживает отображение PDF. Вы можете <a href="images/CreatingAGameForTheiOSplatformOnUnity.pdf">скачать PDF</a> вместо этого.</p>
   </object>
 </div>
 
-<p>Школа программирования itProger, <a href="javascript:void(0);" onclick="showPDF(5)">Изучение Python, Tkinter и Django</a> - 2022 г.</p>
+- <p>Школа программирования itProger, <a href="javascript:void(0);" onclick="showPDF(5)">Изучение Python, Tkinter и Django</a> - 2022 г.</p>
 <div id="pdfContainer5" style="display: none;">
   <object id="pdfObject5" data="images/LearningPythonLikeAProDjangoBasicsTKinter.pdf" type="application/pdf" width="75%" height="500px">
     <p>Ваш браузер не поддерживает отображение PDF. Вы можете <a href="images/LearningPythonLikeAProDjangoBasicsTKinter.pdf">скачать PDF</a> вместо этого.</p>
