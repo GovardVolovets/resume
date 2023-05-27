@@ -97,14 +97,14 @@
   </object>
 </div>
 
-<p>Школа программирования itProger, <a href="javascript:void(0);" onclick="showPDF(4)">Создание игры под платформу iOS на Unity</a> - 2022 г.</p>
+<p>Школа программирования itProger, <a href="javascript:void(0);" onclick="showPDF(4)">Создание iOS игры на движке Unity 5</a> - 2022 г.</p>
 <div id="pdfContainer4" style="display: none;">
   <object id="pdfObject4" data="images/CreatingAGameForTheiOSplatformOnUnity.pdf" type="application/pdf" width="75%" height="500px">
     <p>Ваш браузер не поддерживает отображение PDF. Вы можете <a href="images/CreatingAGameForTheiOSplatformOnUnity.pdf">скачать PDF</a> вместо этого.</p>
   </object>
 </div>
 
-<p>Школа программирования itProger, <a href="javascript:void(0);" onclick="showPDF(5)">Изучение Python до профи / Основы, Django, TKinter</a> - 2022 г.</p>
+<p>Школа программирования itProger, <a href="javascript:void(0);" onclick="showPDF(5)">Изучение Python, Tkinter и Django</a> - 2022 г.</p>
 <div id="pdfContainer5" style="display: none;">
   <object id="pdfObject5" data="images/LearningPythonLikeAProDjangoBasicsTKinter.pdf" type="application/pdf" width="75%" height="500px">
     <p>Ваш браузер не поддерживает отображение PDF. Вы можете <a href="images/LearningPythonLikeAProDjangoBasicsTKinter.pdf">скачать PDF</a> вместо этого.</p>
