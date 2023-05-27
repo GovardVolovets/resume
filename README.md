@@ -24,7 +24,7 @@
 
   * Некоторые учебные работы:
     - Page Oject. [Реализовал функцию тестирования переводов с карты на карту банковского приложения с использованием Page Object](https://github.com/GovardVolovets/page-object/blob/main/src/test/java/ru/netology/test/MoneyTransferTest.java). Нашел баг, завел [issues](https://github.com/GovardVolovets/page-object/issues/1)
-    - Selenid/Selenium. Создал различные тесты для тестирования веб-приложения заказа карты клиентом с использованием Selenid/Selenium: [ссылка 1](https://github.com/GovardVolovets/cardApplication/blob/main/src/test/java/ru/netology/cardApplication/CardApplicationTest.java), [ссылка 2](https://github.com/GovardVolovets/selenide/blob/main/src/test/java/ru/netology/web/test/RegistrationTest.java), [ссылка 3](https://github.com/GovardVolovets/patterns-first-task/blob/main/src/test/java/ru/netology/delivery/test/DeliveryTest.java), [ссылка 4](https://github.com/GovardVolovets/patterns-second-task/blob/main/src/test/java/ru/netology/testmode/test/AuthTest.java)
+    - Selenid/Selenium. Создал различные тесты для тестирования веб-приложения заказа карты клиентом с использованием Selenid/Selenium: [ссылка_GitHub_1](https://github.com/GovardVolovets/cardApplication/blob/main/src/test/java/ru/netology/cardApplication/CardApplicationTest.java), [ссылка_GitHub_2](https://github.com/GovardVolovets/selenide/blob/main/src/test/java/ru/netology/web/test/RegistrationTest.java), [ссылка_GitHub_3](https://github.com/GovardVolovets/patterns-first-task/blob/main/src/test/java/ru/netology/delivery/test/DeliveryTest.java), [ссылка_GitHub_4](https://github.com/GovardVolovets/patterns-second-task/blob/main/src/test/java/ru/netology/testmode/test/AuthTest.java)
 
 * 05.2021 - 05.2023 ООО "Домодедоовский пивоваренный завод" -- Оператор варочного отделения -- Занимался непосредственно производством продукции (пива): контролировал качество сырья, занимался непосредственно варкой пива, контролировал SIP мойку оборудования (контроль качества мойки и чистоты оборудования), контролировал процесс брожения, контролировал качество продукции согласно стандартам
 * 2018 - 2020 Фриланс -- Монтаж видео для различных видеоблогов
@@ -122,8 +122,8 @@
 Имею опыт автоматизации тестирования веб-интерфейсов в рамках учебного процесса. Интересуюсь автоматизацией. Активно изучаю язык программирования Java.
 Прошлый опыт работы помогает мне. Я привык чтобы всё было чётко и красиво. Как раз качество, нужное для Quality Assurance Engineer.
 
-### Дополнительная информация:
-Иностранный язык (B1 — Intermediate). 
+### Дополнительная информация
+- Иностранный язык - Английский (B1 — Intermediate). 
 
 
     
