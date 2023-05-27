@@ -47,6 +47,28 @@
 
 ## Курсы, тренинги:
 ООО "Нетология" направление «Программирование», курс «Тестировщик ПО» - 11.2022 по настоящее время
+
+<p>ООО “Нетология”, <a href="javascript:void(0);" onclick="showPDF(7)">Java для тестировщиков</a> - 2023 г.</p>
+<div id="pdfContainer7" style="display: none;">
+  <object id="pdfObject7" data="images/JavaForTesters.pdf" type="application/pdf" width="75%" height="500px">
+    <p>Ваш браузер не поддерживает отображение PDF. Вы можете <a href="images/JavaForTesters.pdf">скачать PDF</a> вместо этого.</p>
+  </object>
+</div>
+
+<p>ООО “Нетология”, <a href="javascript:void(0);" onclick="showPDF(8)">Git - система контроля версий</a> - 2023 г.</p>
+<div id="pdfContainer8" style="display: none;">
+  <object id="pdfObject8" data="images/GitVersionControlSystem.pdf" type="application/pdf" width="75%" height="500px">
+    <p>Ваш браузер не поддерживает отображение PDF. Вы можете <a href="images/GitVersionControlSystem.pdf">скачать PDF</a> вместо этого.</p>
+  </object>
+</div>
+
+<p>ООО “Нетология”, <a href="javascript:void(0);" onclick="showPDF(9)">Ручное тестирование веб-приложений</a> - 2023 г.</p>
+<div id="pdfContainer9" style="display: none;">
+  <object id="pdfObject9" data="images/ManualWebTestingApplication.pdf" type="application/pdf" width="75%" height="500px">
+    <p>Ваш браузер не поддерживает отображение PDF. Вы можете <a href="images/ManualWebTestingApplication.pdf">скачать PDF</a> вместо этого.</p>
+  </object>
+</div>
+
 <p>ООО “Нетология”, <a href="javascript:void(0);" onclick="showPDF(1)">Основы разработки на Java</a> - 2023 г.</p>
 <div id="pdfContainer1" style="display: none;">
   <object id="pdfObject1" data="images/JavaDevelopmentBasics.pdf" type="application/pdf" width="75%" height="500px">
