@@ -40,6 +40,13 @@
 ## Курсы, тренинги
 - ООО "Нетология" направление «Программирование», курс «Тестировщик ПО» - 11.2022 по настоящее время
 
+- <p>ООО “Нетология”, <a href="javascript:void(0);" onclick="showPDF(10)">Автоматизированное тестирование</a> - 2023 г.</p>
+<div id="pdfContainer10" style="display: none;">
+  <object id="pdfObject10" data="images/AutomatedTesting.pdf" type="application/pdf" width="75%" height="500px">
+    <p>Ваш браузер не поддерживает отображение PDF. Вы можете <a href="images/JavaForTesters.pdf">скачать PDF</a> вместо этого.</p>
+  </object>
+</div>
+
 - <p>ООО “Нетология”, <a href="javascript:void(0);" onclick="showPDF(7)">Java для тестировщиков</a> - 2023 г.</p>
 <div id="pdfContainer7" style="display: none;">
   <object id="pdfObject7" data="images/JavaForTesters.pdf" type="application/pdf" width="75%" height="500px">
